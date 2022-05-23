@@ -1,0 +1,22 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr{
+  border-style: inset none none;
+  border-width: 2px;
+  border-color: grey;
+  width:80%;
+}
+img{
+  height:180px;
+}
+h1{
+  color: #113f67;
+}
+h3{
+  color: #113f67;
+}
+th{
+  color: #38598b;
+}
